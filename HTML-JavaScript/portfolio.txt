@@ -1,0 +1,86 @@
+﻿<div class='container'>
+<div class='row'>
+<div class='col-lg-12'>
+<div class='headline'>
+<h1>Portfolio</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquando posse.</p>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-6 col-sm-6 col-md-3'>
+<div class='hover-details'>
+<img alt='' class='img-responsive img-thumbnail' src='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg' title=''/>
+<div class='img-cover'>
+<a class='img-zoom' data-gal='prettyPhoto' href='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg'><i class='fa fa-search fa-fw'/></i></a>
+<h3><a href="http://standee123.com/in-standee/in-standee-gia-re-tphcm.html">In Standee Giá Rẻ</a></h3>
+</div>
+</div>
+</div>
+<div class='col-xs-6 col-sm-6 col-md-3'>
+<div class='hover-details'>
+<img alt='' class='img-responsive img-thumbnail' src='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg' title=''/>
+<div class='img-cover'>
+<a class='img-zoom' data-gal='prettyPhoto' href='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg'><i class='fa fa-search fa-fw'/></i></a>
+<h3><a href="http://standee123.com/in-standee/in-standee-gia-re-tphcm.html">In Standee Giá Rẻ</a></h3>
+</div>
+</div>
+</div>
+<div class='col-xs-6 col-sm-6 col-md-3'>
+<div class='hover-details'>
+<img alt='' class='img-responsive img-thumbnail' src='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg' title=''/>
+<div class='img-cover'>
+<a class='img-zoom' data-gal='prettyPhoto' href='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg'><i class='fa fa-search fa-fw'/></i></a>
+<h3><a href="http://standee123.com/in-standee/in-standee-gia-re-tphcm.html">In Standee Giá Rẻ</a></h3>
+</div>
+</div>
+</div>
+<div class='col-xs-6 col-sm-6 col-md-3'>
+<div class='hover-details'>
+<img alt='' class='img-responsive img-thumbnail' src='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg' title=''/>
+<div class='img-cover'>
+<a class='img-zoom' data-gal='prettyPhoto' href='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg'><i class='fa fa-search fa-fw'/></i></a>
+<h3><a href="http://standee123.com/in-standee/in-standee-gia-re-tphcm.html">In Standee Giá Rẻ</a></h3>
+</div>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-6 col-sm-6 col-md-3'>
+<div class='hover-details'>
+<img alt='' class='img-responsive img-thumbnail' src='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg' title=''/>
+<div class='img-cover'>
+<a class='img-zoom' data-gal='prettyPhoto' href='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg'><i class='fa fa-search fa-fw'/></i></a>
+<h3><a href="http://standee123.com/in-standee/in-standee-gia-re-tphcm.html">In Standee Giá Rẻ</a></h3>
+</div>
+</div>
+</div>
+<div class='col-xs-6 col-sm-6 col-md-3'>
+<div class='hover-details'>
+<img alt='' class='img-responsive img-thumbnail' src='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg' title=''/>
+<div class='img-cover'>
+<a class='img-zoom' data-gal='prettyPhoto' href='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg'><i class='fa fa-search fa-fw'/></i></a>
+<h3><a href="http://standee123.com/in-standee/in-standee-gia-re-tphcm.html">In Standee Giá Rẻ</a></h3>
+</div>
+</div>
+</div>
+<div class='col-xs-6 col-sm-6 col-md-3'>
+<div class='hover-details'>
+<img alt='' class='img-responsive img-thumbnail' src='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg' title=''/>
+<div class='img-cover'>
+<a class='img-zoom' data-gal='prettyPhoto' href='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg'><i class='fa fa-search fa-fw'/></i></a>
+<h3><a href="http://standee123.com/in-standee/in-standee-gia-re-tphcm.html">In Standee Giá Rẻ</a></h3>
+</div>
+</div>
+</div>
+<div class='col-xs-6 col-sm-6 col-md-3'>
+<div class='hover-details'>
+<img alt='' class='img-responsive img-thumbnail' src='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg' title=''/>
+<div class='img-cover'>
+<a class='img-zoom' data-gal='prettyPhoto' href='https://4.bp.blogspot.com/-RfP2Jh6Dr9g/WActQ-kZ1PI/AAAAAAAAE5s/JZI5ci9dNlkeBvaEwcyel7n8ApUE3kQRQCLcB/w400-h400-c/2-17.jpg'><i class='fa fa-search fa-fw'/></i></a>
+<h3><a href="http://standee123.com/in-standee/in-standee-gia-re-tphcm.html">In Standee Giá Rẻ</a></h3>
+</div>
+</div>
+</div>
+</div>
+</div>
